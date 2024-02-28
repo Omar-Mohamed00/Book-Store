@@ -1,0 +1,10 @@
+﻿global using BS_DataAccess.Repository.IRepository;
+global using BS_Models;
+global using Microsoft.EntityFrameworkCore.Migrations;
+global using System.Diagnostics;
+global using Microsoft.EntityFrameworkCore;
+global using BS_DataAccess.Data;
+global using Microsoft.EntityFrameworkCore.Infrastructure;
+global using Microsoft.EntityFrameworkCore.Metadata;
+global using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
+global using System.Linq.Expressions;
